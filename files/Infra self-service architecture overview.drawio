@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T08:13:31.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.9999.0 Safari/537.36" etag="LBBN_9eZEGxQp25w-E_n" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T08:15:03.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.9999.0 Safari/537.36" etag="uVo3s1k2dZCANHQiah4w" version="17.5.0" type="github">
   <diagram id="6YV9BEM0Kwl5WO1QYTP7" name="Page-1">
-    <mxGraphModel dx="1428" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1680" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wX1egGwQqUurUfu76rJj-4" value="End users can also talk to the APIs if they prefer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wX1egGwQqUurUfu76rJj-3">
+        <mxCell id="wX1egGwQqUurUfu76rJj-4" value="Also available as Rest APIs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wX1egGwQqUurUfu76rJj-3">
           <mxGeometry x="-0.7707" y="3" relative="1" as="geometry">
             <mxPoint x="88" as="offset" />
           </mxGeometry>
