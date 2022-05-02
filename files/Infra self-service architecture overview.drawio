@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T08:09:51.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.9999.0 Safari/537.36" etag="jKnRMDPzQFhTY1ZA_HB-" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T08:12:31.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.9999.0 Safari/537.36" etag="qyo82wllTKdJikJ063fM" version="17.5.0" type="github">
   <diagram id="6YV9BEM0Kwl5WO1QYTP7" name="Page-1">
-    <mxGraphModel dx="985" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wX1egGwQqUurUfu76rJj-8" value="Auth:&lt;br&gt;Azure AD Bearer tokens &lt;br&gt;(on behalf of user)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;align=right;" vertex="1" parent="1">
+          <mxGeometry x="80" y="630" width="640" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="3CDU0EL-y0QIn4lJfjj1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3CDU0EL-y0QIn4lJfjj1-2" target="3CDU0EL-y0QIn4lJfjj1-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
