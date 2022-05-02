@@ -1,1 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T08:05:16.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.9999.0 Safari/537.36" etag="hFkrouAANjqw12kJDFxo" version="17.5.0" type="github"><diagram id="6YV9BEM0Kwl5WO1QYTP7" name="Page-1">5Vpbb+I4FP41SJ2HVs6NyyNQOjurjpZVO5qdp5VJTOJOYkeOU6C/fo+JQxJM6Q0I1T5UtY8v2Of7/PkcQ8cZJ8uvAqfRdx6QuGOjYNlxrju2bXuDLvxTllVhsTzkFpZQ0EDbKsMdfSLaiLQ1pwHJGh0l57GkadPoc8aILxs2LARfNLvNedz81BSHxDDc+Tg2rT9pIKPC2vdQZf+D0DAqP9lCuiXBZWdtyCIc8EXN5Ew6zlhwLotSshyTWHmv9Esx7uaZ1s3CBGHyNQOc8fUPNLm9XKG/vzE3/nP+8GBdWhqfTK7KHZMAHKCrXMiIh5zheFJZR4LnLCBqWgS1qs8t5ykYLTA+EClXGk2cSw6mSCaxboUVi9U/avyVV1Z/1duul3ryorbStWKtaoHP+kCbMp4Ln+zZuK25hEVI5J5+zgYp4DjhCYH1wDhBYizpY3MdWHMt3PSr4ICCRuQt6PRaQWdJZQ0cqP0q0YByBY2qrOo4vQNRPxeP67Va7cDrtQpv/zPC22sCfIWApftBXtemRFBwGxFngnz3g8ivhw6FwKtah5RTJrPazFNlgA76QrT6+jLQ12FvW7O3+ntosK8/FIoVVBzcbOX9tNQefMRxrt0wBZrh2CBrk4qLiEpyl+I1OgsIB5q005MSIclyP8gmKOUAe8t7XV1fVDfzpk9Uu5XLfgc/wfZg7wlmnLV2ZA94pJxXHilr0KaaOgZth0+5gOIQrLeYBZSFTwoQGw2n386OzF6/bTJb3v80FnRfyW+7TXq7Br0nLABDnhGRnR2b++1Lsxk7f5irB+Sc9yk01dunqV/Bnyn8/x4m8kxE1e6fm6g6yHDKMSKEAzKz+ymY2TWYyQDg82Ch654bC62B4a47Ih6pr6KhUQ73B7rnKfWh0I1hMaOZgFKoShfsXvn1Lp9lvqAzuGy+GA7OfhPpR9q/OEuLh7g5XSqn152r8yMY5I063rXqHdOQgcEH36rccEST9YvcaM6Z1HS37Mp+TZMQXBDTmXJE5mPYwY3ey7+wk6vsMTwMis7WleYiE0VvB4je0aTEMkD8ycVv8JqNLsbgLkwZEV/W4ryN4o80wFKBDf3mMJwp5A2oFxFhauXwx8hCrYfNhaplq0ySRBkUVXAAp8lkwamP2ZbW2zvwsbon1XozBTHFnwVD9SytKB/jLKN+0y9NJ9aCY9SvR8dVPPyGJ5fdaWSZYB4/jSzf749+szzz+OI8c6DLKYod6FF7XmXcXnMiZ7A1UbFDY6JDPdA4Zi4wjoj/W53NOVdykJAsA7k08wIF5C2ekVhRjWT0Cc/WTajJQkOV1UGlPo6HuiGhQaDzPwmYcGVzK77ob2P05J3NdyAvnPc9p6q1VwUz0Hi16I4FKUS3ENO4/gbReqDsvSyepw2UewcXz3fIXU1w3W63obhXyH7pTWKn6h5SQU8Wm+8WPnsrJHL671VQa2si+8QK2j9LBR0cSUF7rSqomXtMljhJ4x0RaPG6YKObnPlrn0BCl6o3hospX0DqEa0/72a6ggQZGm/+kpESX2Oe1vXVfU1w2julvpY56VGC0ze93Fa63O/WhPlSKex+cYbKEdW1TJJf/k3AcdR1E4+Woth7p7p6Lcenrpmo3gsahuuHajSvzjZWZ/uE+nrpeEcRWBd9kBDPnGyoVr8PKtCpfmblTP4D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-02T08:08:32.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.9999.0 Safari/537.36" etag="L72G1v0yvEkaeEsgy8nQ" version="17.5.0" type="github">
+  <diagram id="6YV9BEM0Kwl5WO1QYTP7" name="Page-1">
+    <mxGraphModel dx="985" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3CDU0EL-y0QIn4lJfjj1-2" target="3CDU0EL-y0QIn4lJfjj1-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="3CDU0EL-y0QIn4lJfjj1-2" target="3CDU0EL-y0QIn4lJfjj1-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="3CDU0EL-y0QIn4lJfjj1-2" target="3CDU0EL-y0QIn4lJfjj1-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="720" />
+              <mxPoint x="470" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-2" value="Web Portal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="3CDU0EL-y0QIn4lJfjj1-3" target="3CDU0EL-y0QIn4lJfjj1-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-3" value="Azure: Landingzone API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3CDU0EL-y0QIn4lJfjj1-4" target="3CDU0EL-y0QIn4lJfjj1-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wX1egGwQqUurUfu76rJj-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="3CDU0EL-y0QIn4lJfjj1-4" target="3CDU0EL-y0QIn4lJfjj1-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wX1egGwQqUurUfu76rJj-4" value="End users can also talk to the APIs if they prefer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wX1egGwQqUurUfu76rJj-3">
+          <mxGeometry x="-0.7707" y="3" relative="1" as="geometry">
+            <mxPoint x="88" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-4" value="End users" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3CDU0EL-y0QIn4lJfjj1-5" target="3CDU0EL-y0QIn4lJfjj1-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-5" value="Azure: Group Mgmt API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3CDU0EL-y0QIn4lJfjj1-6" target="3CDU0EL-y0QIn4lJfjj1-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-6" value="nth API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-19" value="Service Bus Topics&lt;br&gt;(nTh Subscribers)" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
+          <mxGeometry x="320" y="400" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-31" value="Worker (Container):&lt;br&gt;Update Confluence&lt;br&gt;(when a new infra system is added)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.08;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3CDU0EL-y0QIn4lJfjj1-31" target="3CDU0EL-y0QIn4lJfjj1-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="400" as="sourcePoint" />
+            <mxPoint x="470" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-34" value="Checks for messages" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=40;" parent="3CDU0EL-y0QIn4lJfjj1-33" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-36" value="Worker (Container):&lt;br&gt;Create new landingzone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.466;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3CDU0EL-y0QIn4lJfjj1-36" target="3CDU0EL-y0QIn4lJfjj1-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="380" as="sourcePoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-38" value="Checks for messages" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=90;" parent="3CDU0EL-y0QIn4lJfjj1-37" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-39" value="Example&lt;br&gt;Azure Function App (Powershell/Python/Other)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="200" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.86;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3CDU0EL-y0QIn4lJfjj1-19" target="3CDU0EL-y0QIn4lJfjj1-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="570" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CDU0EL-y0QIn4lJfjj1-41" value="Triggers function app" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-35;" parent="3CDU0EL-y0QIn4lJfjj1-40" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
